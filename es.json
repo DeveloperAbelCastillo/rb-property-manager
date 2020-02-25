@@ -1,0 +1,403 @@
+{
+   "menu" : {
+      "language" : "English",
+      "home" : "Inicio",
+      "services" : "Servicios",
+      "buyRentals" : "Venta/Renta",
+      "aboutUs" : "Acerca de",
+      "contact" : "Contacto"
+   },
+   "packages" : {
+      "diamond" : "Servicio Diamante",
+      "diamondDetail" : "Servicio completo: alquiler y gestión de huéspedes.",
+      "star" : "Servicio Estrella",
+      "starDetail" : "Servicios básicos: mantenga su propiedad en orden"
+   },    
+   "home" : [
+      {
+         "title" : "Nuestros servicios",
+         "parrafos" : [
+            {
+               "value" : "Entendemos que es difícil comprar una propiedad y tenemos que dejarla para regresar a casa, esperando que todo esté bien. Desafortunadamente, la emoción de la propiedad puede verse eclipsada por las incertidumbres de cómo todo será justo sin su presencia. Ahí es donde entramos nosotros..."
+            },
+            {
+               "lista" : [
+                  {
+                     "title" : "Monitorear el hogar",
+                     "value" : "durante los períodos en que la propiedad no está ocupada. (Abra las ventanas para mantener el hogar fresco, descargue los inodoros, muestre actividad, etc.)"
+                  },
+                  {
+                     "title" : "Cuidados generales o reparaciones menores",
+                     "value" : "Cuidados generales o reparaciones menores: solucione problemas simples que puedan ocurrir o ayude a organizar personas con oficios especializados."
+                  },
+                  {
+                     "title" : "Administre el pago de facturas",
+                     "value" : "Administre el pago de facturas: RB Property Manager organizará y realizará pagos para limpiadores, jardineros, reparaciones generales o realizará pagos en nombre del propietario de servicios públicos y otras facturas mensuales."
+                  },
+                  {
+                     "value" : "¡Organice la recogida de alimentos menores para que cuando llegue a México lo esencial ya esté allí! (¿A quién no le gusta una Cerveza fría o un vaso fresco de agua purificada para comenzar?)"
+                  },
+                  {
+                     "title" : "Conoce y saluda",
+                     "value" : "haga que sus invitados se sientan cómodos haciendo que nos reunamos con ellos en la propiedad. ¡Podemos ayudarlos con lo que se debe y no se debe hacer en general en México y, por supuesto, dónde obtener los mejores Tacos!"
+                  }
+               ]
+            },
+            {
+               "value" : "Cubrimos las áreas de Puerto Vallarta, Nuevo Vallarta, Bucerías, La Cruz de Huanacaxtle, Sayulita, Punta de Mita."
+            },
+            {
+               "value" : "Su casa es una inversión y necesita atención cuando no está allí. Necesita a alguien en quien pueda confiar: ¡podemos ayudarlo a cuidarlo!"
+            }
+         ]
+      }
+   ],
+   "services" : [
+      {
+         "title" : "Qué esperar de nosotros: ¡comunicación!",
+         "parrafos" : [
+            {
+               "value" : "La comunicación es la clave: manejando los asuntos rápidamente y manteniendo informados a los propietarios que recibirá correos electrónicos mensuales o bimensuales con respecto a cualquier actualización. Incluso si a veces ninguna noticia es una buena noticia, ¡aún informamos las noticias!"
+            }
+         ]
+      },
+      {
+         "title" : "Nuestros servicios",
+         "parrafos" : [
+            {
+               "title" : "Monitor de casa",
+               "value" : "durante los períodos en que la propiedad no está ocupada. RB Property Manager inspeccionará la propiedad una vez por semana y abrirá ventanas para mantener el hogar fresco, descargar los inodoros, mostrar actividad, recoger el correo e informar cualquier mantenimiento requerido."
+            },
+            {
+               "title" : "Cuidado general o reparaciones menores",
+               "value" : "solucione problemas simples que puedan ocurrir o ayude a organizar personas con oficios especializados."
+            },
+            {
+               "title" : "Renovaciones y reparaciones mayores",
+               "value" : "Si los propietarios solicitan u organizan una renovación o reparación importante, RB Property Manager supervisará el trabajo, organizará los pagos de los suministros del edificio y hará los pagos a los trabajadores y proveedores de servicios. Al recibir un depósito no reembolsable de $ 500.00 USD, encontraremos los proveedores de servicios apropiados, obtendremos tres (3) cotizaciones por escrito y las presentaremos al propietario antes de comenzar cualquier trabajo. RB Property Manager agregará una tarifa del 15% al costo cotizado del proveedor del servicio para este servicio. El propietario elegirá qué proveedor de servicios usar y aprobará el proyecto antes de realizar cualquier trabajo."
+            },
+            {
+               "title" : "Administrar pagos de facturas",
+               "value" : "RB Property Manager organizará y realizará los pagos de la limpieza, el jardinero, el mantenimiento de la piscina, las reparaciones generales o los pagos en nombre del propietario de los servicios públicos y otras facturas mensuales.",
+               "lista" : [
+                  {
+                     "value" : "Eléctrico / Agua / Gas / Teléfono / Cable"
+                  },
+                  {
+                     "value" : "Artículos de limpieza y otros artículos para el hogar"
+                  },
+                  {
+                     "value" : "Reparaciones Menores / Materiales"
+                  }
+               ]
+            },
+            {
+               "title" : "Informes y extractos mensuales",
+               "value" : "Se puede crear una cuenta desde la cual se realizan retiros para realizar pagos. Enviamos mensualmente un informe detallado de todas las deducciones y créditos a la cuenta del propietario. Lista de inventario mensual de suministros utilizados para mantenimiento, limpieza o reparaciones. Todos los suministros y costos son adicionales a la facturación mensual."
+            },
+            {
+               "title" : "Gestión de alquileres",
+               "value" : "RB Property Manager ayudará con los alquileres organizados por el propietario u otras empresas de alquiler por una tarifa del 10% de los ingresos brutos del alquiler. Organizaremos los siguientes servicios adicionales si es necesario para el alquiler de la Propiedad:",
+               "lista" : [
+                  {
+                     "value" : "Visita la propiedad para confirmar la disponibilidad de la propiedad."
+                  },
+                  {
+                     "value" : "Administrar claves para huéspedes de alquiler"
+                  },
+                  {
+                     "value" : "Inspeccione la propiedad por daños después de la salida de los huéspedes de alquiler y antes de que se devuelva el depósito de seguridad"
+                  }
+               ]
+            },
+            {
+               "title" : "RB Property Manager Rentals & Guest Management Services",
+               "value" : "Si el propietario aprueba un arrendatario encontrado por RB Property Manager, retendremos una tarifa del 20% de los ingresos brutos del alquiler como comisión por obtener la reserva. Además de las tareas de administración de alquileres (incluidas en este precio), recaudaremos y depositaremos todos los fondos en la cuenta del propietario."
+            },
+            {
+               "title" : "Conoce y saluda",
+               "value" : "Haga que sus invitados se sientan cómodos haciendo que nos reunamos con ellos en el sitio de la propiedad. ¡Podemos ayudarlos con lo que se debe y no se debe hacer en general en México y, por supuesto, dónde obtener los mejores Tacos!"
+            },
+            {
+               "title" : "Paquete de bienvenida",
+               "value" : "Haga arreglos para recoger alimentos menores para que cuando llegue a México, ¡lo esencial ya esté allí! (¿A quién no le gusta una Cerveza fría o un vaso fresco de agua purificada para comenzar?)"
+            }
+         ]
+      },
+      {
+         "title" : "Precios",
+         "parrafos" : [
+            {
+               "value" : "Ofrecemos tarifas especiales para propietarios de varias propiedades y nos complace personalizar un plan para sus necesidades específicas."
+            }
+         ]
+      }
+   ],    
+   "buyRentals" : [
+      {
+         "title" : "Renta y Venta",
+         "parrafos" : [
+            {
+               "value" : "Proximamente..."
+            }
+         ]
+      }
+   ],
+   "aboutUs" : [
+      {
+         "title" : "Sobre nosotros",
+         "parrafos" : [
+            {
+               "value" : "Conocemos los desafíos de poseer y mantener una casa. Su atención al detalle y sus habilidades claras de comunicación los convierten en las personas ideales para cuidar su hogar lejos del hogar."
+            },
+            {
+               "value" : "Se sabe que son confiables y honestos. Se esfuerzan por hacer que todos sus clientes o invitados se sientan bienvenidos cuando regresan a México. La comunicación es lo que los distingue: recibirá informes mensuales sobre su propiedad y harán un seguimiento con sus invitados para asegurarse de que todo esté en orden."
+            }
+         ]
+      }
+   ],
+   "diamond" : [
+        {
+            "title" : "El paquete Gold consta de lo siguiente",
+            "imagen" : "gem.png",
+            "lista" : [
+                {
+                    "value" : "Pago de facturas de servicios públicos, mucama (s), mantenimiento de la piscina y jardinero, si corresponde"
+                },
+                {
+                    "value" : "Pago de impuestos a la propiedad"
+                },
+                {
+                    "value" : "Pago de cuotas de asociación"
+                },
+                {
+                    "value" : "Inspección de la propiedad semanal o mensualmente (según el contrato de alquiler)"
+                },
+                {
+                    "value" : "Informes contables mensuales"
+                }
+            ]
+        },
+        {
+            "value" : "Estructura de tarifas (todos los precios están en USD)"
+        },
+        {
+            "tables" : [
+                {
+                    "name" : "condominios",
+                    "rows" : [
+                        {
+                            "value" : "Estudios o 1 y 2 dormitorios.",
+                            "price" : "$75 / mes"
+                        },
+                        {
+                            "value" : "Unidades de 3 dormitorios",
+                            "price" : "$120 / mes"
+                        },
+                        {
+                            "value" : "4 a 6 habitaciones o niveles múltiples",
+                            "price" : "$150 / mes"
+                        }
+                    ]
+                },
+                {
+                    "name" : "casas",
+                    "rows" : [
+                        {
+                            "value" : "Hasta tres habitaciones",
+                            "price" : "$125 / mes"
+                        },
+                        {
+                            "value" : "4 a 6 o multinivel",
+                            "price" : "$190 / mes"
+                        }
+                    ]
+                },
+                {
+                    "name" : "Servicios especiales",
+                    "rows" : [
+                        {
+                            "value" : "Pintura/decoración",
+                            "price" : "haga clic aquí para consultar"
+                        },
+                        {
+                            "value" : "Mobiliario",
+                            "price" : "haga clic aquí para consultar"
+                        },
+                        {
+                            "value" : "Remodelación",
+                            "price" : "haga clic aquí para consultar"
+                        },
+                        {
+                            "value" : "Servicio de limpieza*",
+                            "price" : "$10 / hora, 3 horas minimo"
+                        },
+                        {
+                            "value" : "Compra de comestibles y suministro",
+                            "price" : "$25 / hora más gastos"
+                        },
+                        {
+                            "value" : "Supervisión de reparaciones y mantenimiento.",
+                            "price" : "$20 / hora"
+                        },
+                        {
+                            "value" : "Conoce y saluda",
+                            "price" : "$25"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "value" : "*Transporte incluido en el precio del servicio de mucama."
+        },
+        {
+            "value" : "Cada casa tiene potencial de alquiler, especialmente durante la temporada alta. Nuestro programa de alquiler para su propiedad presenta lo siguiente:",
+            "lista" : [
+                {
+                    "value" : "Listado de su alquiler en nuestro sitio web"
+                },
+                {
+                    "value" : "Preparación del paquete promocional para ser enviado a otras agencias de alquiler y agencias inmobiliarias relevantes. Alentamos a otras agencias a que también coloquen la propiedad en sus sitios web para promover y maximizar su exposición a alquileres y también otorguen a las otras agencias una distribución de tarifas apropiada"
+                },
+                {
+                    "value" : "Hojas promocionales o correos electrónicos enviados a clientes que solicitan información, ya sea ingresando a la oficina, buscando en el sitio web o a clientes referidos"
+                },
+                {
+                    "value" : "Mantener un calendario de alquiler de gestión de invitados"
+                },
+                {
+                    "value" : "Proporcionar confirmaciones de alquileres y cobro de depósitos y dinero de alquiler."
+                },
+                {
+                    "value" : "Revisión de la lista de inventario con el cliente al momento del check-in y check-out para el período de alquiler"
+                },
+                {
+                    "value" : "Obtención de un depósito de daños a la llegada y reembolso al momento del check-out si no se han producido daños a la propiedad o falta algo o está roto en la lista de inventario"
+                },
+                {
+                    "value" : "Obtener identificación y datos personales pertinentes sobre clientes de alquiler para emergencias o cuando sea necesario"
+                },
+                {
+                    "value" : "Preparación de informes contables y de actividad cuando corresponda"
+                },
+                {
+                    "value" : "Depositar ingresos de alquiler en la cuenta bancaria del propietario"
+                }
+            ]
+        },
+        {
+            "value" : "Estructura de tarifas para Sunset Rental y servicios de gestión de huéspedes:",
+            "lista" : [
+                {
+                    "value" : "Comentario del 20% de los ingresos por alquiler para obtener la reserva. Esto se dividirá con otras agencias cuando corresponda"
+                },
+                {
+                    "value" : "Cuando el propietario proporciona un alquiler, el cargo se reduce al 10% a menos que se hagan otros arreglos. Tenga en cuenta que el programa anterior puede modificarse y adaptarse para satisfacer las necesidades del propietario. Nuestra compañía aún ofrece los servicios anteriores con respecto a la gestión de huéspedes cuando esto aplica"
+                }
+            ]
+        },
+        {
+            "value" : "Las tarifas con respecto a alquileres a largo plazo se proporcionarán a pedido."
+        }
+    ],
+    "star" : [
+        {
+            "title": "El paquete Gold consiste en lo siguiente",
+            "imagen": "favourites.png",
+            "lista": [
+               {
+                  "value": "Pago de facturas de servicios públicos, mucama (s), mantenimiento de la piscina y jardinero, si corresponde"
+               },
+               {
+                  "value": "Pagos de impuestos a la propiedad"
+               },
+               {
+                  "value": "Pago de cuotas de asociación"
+               },
+               {
+                  "value": "Inspección de la propiedad semanal o mensualmente (según el acuerdo de alquiler)"
+               },
+               {
+                  "value": "Informes contables mensuales"
+               },
+               {
+                  "value": "Promoción de alquiler de la propiedad en nuestro sitio web si así lo solicita"
+               }
+            ]
+        },
+        {
+            "value" : "Estructura de tarifas (todos los precios están en USD):"
+        },
+        {
+            "tables" : [
+                {
+                    "name" : "condominios",
+                    "rows" : [
+                        {
+                            "value" : "Estudios o 1 y 2 dormitorios.",
+                            "price" : "$100 / mes"
+                        },
+                        {
+                            "value" : "Unidades de 3 dormitorios",
+                            "price" : "$150 / mes"
+                        },
+                        {
+                            "value" : "4 a 6 habitaciones o niveles múltiples",
+                            "price" : "$200 / mes"
+                        }
+                    ]
+                },
+                {
+                    "name" : "casas",
+                    "rows" : [
+                        {
+                            "value" : "Hasta tres habitaciones",
+                            "price" : "$175 / mes"
+                        },
+                        {
+                            "value" : "4 a 6 o multinivel",
+                            "price" : "$250 / mes"
+                        }
+                    ]
+                },
+                {
+                    "name" : "Servicios especiales",
+                    "rows" : [
+                        {
+                            "value" : "Pintura/decoración",
+                            "price" : "haga clic aquí para consultar"
+                        },
+                        {
+                            "value" : "Mobiliario",
+                            "price" : "haga clic aquí para consultar"
+                        },
+                        {
+                            "value" : "Remodelación",
+                            "price" : "haga clic aquí para consultar"
+                        },
+                        {
+                            "value" : "Servicio de limpieza*",
+                            "price" : "$10 / hora, 3 horas minimo"
+                        },
+                        {
+                            "value" : "Compra de comestibles y suministro",
+                            "price" : "$25 / hora más gastos"
+                        },
+                        {
+                            "value" : "Supervisión de reparaciones y mantenimiento.",
+                            "price" : "$20 / hora"
+                        },
+                        {
+                            "value" : "Conoce y saluda",
+                            "price" : "$25"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "value" : "*Transporte incluido en el precio del servicio de mucama."
+        }
+    ]
+}

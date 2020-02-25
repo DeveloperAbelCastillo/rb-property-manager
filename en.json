@@ -1,0 +1,403 @@
+{
+    "menu": {
+        "language": "Español",
+        "home": "Home",
+        "services": "Services",
+        "buyRentals": "Buy/Rentals",
+        "aboutUs": "About Us",
+        "contact": "Contact"
+    },
+    "packages": {
+        "diamond": "Diamond Service",
+        "diamondDetail": "Full service - rental & guest management.",
+        "star": "Sar Service",
+        "starDetail": "Basic services - keep your property in order."
+    },
+    "home": [
+        {
+            "title": "Our Services",
+            "parrafos": [
+                {
+                    "value": "We understand it is difficult to purchase a property and have to leave it behind to return home, hoping everything will be okay. The excitement of ownership can unfortunately be overshadowed by the uncertainties of how it will all fair without you present. That's where we come in..."
+                },
+                {
+                    "lista": [
+                        {
+                            "title": "Monitor home",
+                            "value": "during periods when property is not occupied. (Open windows to keep home fresh, flush the toilets, show activity, etc)"
+                        },
+                        {
+                            "title": "General Care or Minor Repairs",
+                            "value": "fix simple problems that may occur or assist in arranging appropriate skilled trades people."
+                        },
+                        {
+                            "title": "Manage bill payment",
+                            "value": "RB Property Manager will organize and make payments for cleaners, gardeners, general repairs or make payments on owner's behalf of utilities, and other monthly bills."
+                        },
+                        {
+                            "value": "¡Arrange for pickup of minor groceries so that when you arrive to Mexico the essentials are already there! (Who doesn't like a cold Cerveza or a fresh glass of purified water to get you started?)"
+                        },
+                        {
+                            "title": "Meet & Greet",
+                            "value": "make your guests comfortable by having us meet up with them at the property. We can help them with general do's and don'ts while in Mexico and of course where to get the best Tacos!"
+                        }
+                    ]
+                },
+                {
+                    "value": "We cover the areas of Puerto Vallarta, Nuevo Vallarta, Bucerias, La Cruz de Huanacaxtle, Sayulita, Punta de Mita."
+                },
+                {
+                    "value": "Your home is an investment and needs attention when you are not there. You need someone you can trust - we can help you care for it!"
+                }
+            ]
+        }
+    ],
+    "services": [
+        {
+            "title": "What to expect from us - communication!",
+            "parrafos": [
+                {
+                    "value": "Communication is the key- by handling matters quickly and keeping owners informed you will receive monthly or bi-monthly emails regarding any updates. Even if sometimes no news is good news - we still report the news!"
+                }
+            ]
+        },
+        {
+            "title": "Our Services",
+            "parrafos": [
+                {
+                    "title": "Monitor Home",
+                    "value": "during periods when property is not occupied.  RB Property Manager will inspect property once per week and open windows to keep home fresh, flush the toilets, show activity, pick-up mail and report any required maintenance."
+                },
+                {
+                    "title": "General care or minor repairs",
+                    "value": "fix simple problems that may occur or assist in arranging appropriate skilled trades people."
+                },
+                {
+                    "title": "Renovations and Major Repairs",
+                    "value": "If owners requests or arranges for a renovation or major repair, RB Property Manager will oversee the work, arrange payments for building supplies and make payments to workers and service providers.  Upon receipt of a $500.00 USD non-refundable deposit, we will find appropriate service providers, obtain three (3) written quotes and submit them to owner prior to the commencement of any work.  RB Property Manager will add a 15% fee to the quoted cost from the service provider for this service.   Owner will choose which service provider to use and approve project before any work is done."
+                },
+                {
+                    "title": "Manage bill payments",
+                    "value": "RB Property Manager will organize and make payments for maid, gardener, pool maintenance, general repairs or make payments on owner's behalf of utilities, and other monthly bills.",
+                    "lista": [
+                        {
+                            "value": "Electric/Water/Gas/Phone/Cable"
+                        },
+                        {
+                            "value": "Cleaning Supplies and other household supplies"
+                        },
+                        {
+                            "value": "Minor Repairs/Materials"
+                        }
+                    ]
+                },
+                {
+                    "title": "Reporting and Monthly Statements",
+                    "value": "An account can be created from which withdrawals are made to make payments.  We email monthly a detailed accounting of all deductions and credits to owner’s account. Monthly Inventory list of supplies used for maintenance, cleaning or repairs.  All supplies and costs are in addition to monthly billing."
+                },
+                {
+                    "title": "Rental Management",
+                    "value": "RB Property Manager will assist with rentals arranged by owner or other rental companies for a fee of 10% of the gross rental revenue.  We will arrange the following additional services if needed for rental of Property:",
+                    "lista": [
+                        {
+                            "value": "Visit property to confirm readiness of property"
+                        },
+                        {
+                            "value": "Manage keys for rental guests"
+                        },
+                        {
+                            "value": "Inspect property for damage after rental guests’ departure and before security deposit is returned"
+                        }
+                    ]
+                },
+                {
+                    "title": "RB Property Manager Rentals & Guest Management Services",
+                    "value": "If owner approves a renter found by RB Property Manager, we will retain a 20% fee of the gross rental revenue as commission for obtaining the reservation.  In addition to the rental management tasks (included in this price), we will collect and deposit all funds into the owner's account."
+                },
+                {
+                    "title": "Meet & Greet",
+                    "value": "Make your guests comfortable by having us meet up with them at property site.  We can help them with general do's and don'ts while in Mexico and of course where to get the best Tacos!"
+                },
+                {
+                    "title": "Welcome Package",
+                    "value": "Arrange for pick up of minor groceries so that when you arrive to Mexico, the essentials are already there!  (Who doesn't like a cold Cerveza or a fresh glass of purified water to get you started?)"
+                }
+            ]
+        },
+        {
+            "title": "Pricing",
+            "parrafos": [
+                {
+                    "value": "We offer special rates for owners of multiple properties and we are happy to customize a plan for your specific needs."
+                }
+            ]
+        }
+    ],
+    "buyRentals": [
+        {
+            "title": "Rent and Sale",
+            "parrafos": [
+                {
+                    "value": "Before long..."
+                }
+            ]
+        }
+    ],
+    "aboutUs": [
+        {
+            "title": "About Us",
+            "parrafos": [
+                {
+                    "value": "We know the challenges of owning and maintaining a house. Their attention to detail and their clear communication skills make them the ideal people to take care of your home away from home."
+                },
+                {
+                    "value": "They are known to be reliable and honest. They strive to make all their customers or guests feel welcome when they return to Mexico. Communication is what distinguishes them: they will receive monthly reports on their property and will follow up with their guests to make sure everything is in order."
+                }
+            ]
+        }
+    ],
+    "diamond" : [
+        {
+            "title" : "Gold Package consists of the following",
+            "imagen" : "gem.png",
+            "lista" : [
+                {
+                    "value" : "Bill payment of utilities, maid(s), pool maintenance and gardener if applicable"
+                },
+                {
+                    "value" : "Property Tax Payments"
+                },
+                {
+                    "value" : "Payment of association dues"
+                },
+                {
+                    "value" : "Inspection of property weekly or monthly (based on rental agreement)"
+                },
+                {
+                    "value" : "Monthly accounting reports"
+                }
+            ]
+        },
+        {
+            "value" : "Fee structure (all prices are in USD)"
+        },
+        {
+            "tables" : [
+                {
+                    "name" : "condominiums",
+                    "rows" : [
+                        {
+                            "value" : "Studios or 1 & 2 bedrooms",
+                            "price" : "$75 / month"
+                        },
+                        {
+                            "value" : "3 bedroom units",
+                            "price" : "$120 / month"
+                        },
+                        {
+                            "value" : "4 to 6 bedrooms or multi-level",
+                            "price" : "$150 / month"
+                        }
+                    ]
+                },
+                {
+                    "name" : "homes",
+                    "rows" : [
+                        {
+                            "value" : "Up to three bedrooms",
+                            "price" : "$125 / month"
+                        },
+                        {
+                            "value" : "4 to 6 or multi-level",
+                            "price" : "$190 / month"
+                        }
+                    ]
+                },
+                {
+                    "name" : "special services",
+                    "rows" : [
+                        {
+                            "value" : "Painting/Decorating",
+                            "price" : "click here to enquire"
+                        },
+                        {
+                            "value" : "Furnishing",
+                            "price" : "click here to enquire"
+                        },
+                        {
+                            "value" : "Remodeling",
+                            "price" : "click here to enquire"
+                        },
+                        {
+                            "value" : "Maid service*",
+                            "price" : "$10 / hour, 3 hr min."
+                        },
+                        {
+                            "value" : "Grocery shopping and supply",
+                            "price" : "$25 / hour plus expenses"
+                        },
+                        {
+                            "value" : "Supervision of repairs and maintenance",
+                            "price" : "$20 / hour"
+                        },
+                        {
+                            "value" : "Meet & greet",
+                            "price" : "$25"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "value" : "*Transportation included in price for maid service."
+        },
+        {
+            "value" : "Every home has rental potential, especially during the high season. Our rental program for your property features the following:",
+            "lista" : [
+                {
+                    "value" : "Listing of your rental on our website"
+                },
+                {
+                    "value" : "Preparation of promotional package to be sent to other rental agencies and relevant real estate agencies. We encourage other agencies to also put the property on their websites to promote and maximize your exposure for rentals and also giving the other agencies an appropriate fee split"
+                },
+                {
+                    "value" : "Promotional sheets or e-mails sent out to clients who request information either by dropping into the office, looking on the website or to referred clients"
+                },
+                {
+                    "value" : "Maintaining a guest management rental calendar"
+                },
+                {
+                    "value" : "Providing confirmations of rentals and collection of deposit and rental money"
+                },
+                {
+                    "value" : "Inventory list review with client upon check-in and check-out for rental period"
+                },
+                {
+                    "value" : "Obtaining damage deposit upon arrival and refunding on check out if no damage to property has occurred or anything on the inventory list is missing or broken"
+                },
+                {
+                    "value" : "Obtaining identification and pertinent personal data on rental clients for emergencies or when needed"
+                },
+                {
+                    "value" : "Preparing accounting and activity reports when applicable"
+                },
+                {
+                    "value" : "Depositing rental income in property owner's bank account"
+                }
+            ]
+        },
+        {
+            "value" : "Fee structure for Sunset Rental and Guest Management Services:",
+            "lista" : [
+                {
+                    "value" : "20% commention of rental income for obtaining reservation. This will be divided with other agencies when applicable"
+                },
+                {
+                    "value" : "When a property owner provides a rental, the charge is reduced to 10% unless other arrangements are made. Please note that the above program can be modified and tailored to suit the owner's needs. Our company still offers the above services regarding the guest management when this applies"
+                }
+            ]
+        },
+        {
+            "value" : "Rates regarding long term rentals will be provided upon request."
+        }
+    ],
+    "star" : [
+        {
+            "title" : "Silver Package consists of the following",
+            "imagen" : "favourites.png",
+            "lista" : [
+                {
+                    "value" : "Bill payment of utilities, maid(s), pool maintenance and gardener if applicable"
+                },
+                {
+                    "value" : "Property Tax Payments"
+                },
+                {
+                    "value" : "Payment of association dues"
+                },
+                {
+                    "value" : "Inspection of property once per week"
+                },
+                {
+                    "value" : "Monthly accounting reports"
+                },
+                {
+                    "value" : "Rental promotion of the property on our website if requested"
+                }
+            ]
+        },
+        {
+            "value" : "Fee structure (all prices are in USD):"
+        },
+        {
+            "tables" : [
+                {
+                    "name" : "condominiums",
+                    "rows" : [
+                        {
+                            "value" : "Studios or 1 & 2 bedrooms",
+                            "price" : "$100 / month"
+                        },
+                        {
+                            "value" : "3 bedroom units",
+                            "price" : "$150 / month"
+                        },
+                        {
+                            "value" : "4 to 6 bedrooms or multi-level",
+                            "price" : "$200 / month"
+                        }
+                    ]
+                },
+                {
+                    "name" : "homes",
+                    "rows" : [
+                        {
+                            "value" : "Up to three bedrooms",
+                            "price" : "$175 / month"
+                        },
+                        {
+                            "value" : "4 to 6 or multi-level",
+                            "price" : "$250 / month"
+                        }
+                    ]
+                },
+                {
+                    "name" : "special services",
+                    "rows" : [
+                        {
+                            "value" : "Painting/Decorating",
+                            "price" : "click here to enquire"
+                        },
+                        {
+                            "value" : "Furnishing",
+                            "price" : "click here to enquire"
+                        },
+                        {
+                            "value" : "Remodeling",
+                            "price" : "click here to enquire"
+                        },
+                        {
+                            "value" : "Maid service*",
+                            "price" : "$10 / hour, 3 hr min."
+                        },
+                        {
+                            "value" : "Grocery shopping and supply",
+                            "price" : "$25 / hour plus expenses"
+                        },
+                        {
+                            "value" : "Supervision of repairs and maintenance",
+                            "price" : "$20 / hour"
+                        },
+                        {
+                            "value" : "Meet & greet",
+                            "price" : "$25"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "value" : "*Transportation included in price for maid service."
+        }
+    ]
+}
